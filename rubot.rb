@@ -21,9 +21,9 @@ require 'socket'
 
 class Rubot
   # Configurables
-  @@server = "irc.devux.org"
-  @@port = 6667
-  @@channel = "#sysadmininkudzu"
+  @@server = "3ov7h5bwr65d6zr7prm7qrawqqalnwlwkczo32pvkjbhksdqa3u2glad.onion"
+  @@port = 3000
+  @@channel = "#rubot"
   @@nick = "RuBot"
   @@altnick = "RuBot-"
   @@ident = "rubot"
